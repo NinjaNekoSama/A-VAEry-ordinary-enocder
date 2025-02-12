@@ -1,4 +1,4 @@
-# README: VAE-ry Ordinary Audio Synthesizer
+# A VAE-ry Ordinary Audio Synthesizer
 
 ## Project Overview
 This project explores the use of Autoencoders and Variational Autoencoders (VAEs) for the analysis and synthesis of audio waveforms. The study investigates waveform generation, interpolation, and reconstruction quality using VAEs with a modified loss function.
